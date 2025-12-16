@@ -4,6 +4,8 @@ A **production-style Machine Learning project** that classifies Amazon product r
 
 This project focuses on **clean architecture, correct ML logic, and deployment readiness**, not just model accuracy.
 
+**Dataset link:** [Amazon Review Dataset](https://www.kaggle.com/datasets/yasserh/amazon-product-reviews-dataset)
+
 ---
 
 ## 🚀 Project Overview
