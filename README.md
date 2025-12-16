@@ -141,6 +141,12 @@ Key preprocessing steps:
 
 ---
 
+
+## :sparkles: Streamlit 
+🔗 Live Demo 👉 [click here to open the Streamlit App](https://amazon-review-sentiment-ml.streamlit.app/)
+
+---
 > This project is designed to demonstrate **real-world ML thinking**, not just model training.
+
 
 
